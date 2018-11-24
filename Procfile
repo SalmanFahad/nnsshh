@@ -1,3 +1,1 @@
-node Sharing-BOT.js
-
-pause
+worker: node Sharing-BOT.js
